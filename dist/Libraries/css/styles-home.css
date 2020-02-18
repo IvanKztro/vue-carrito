@@ -1,0 +1,113 @@
+
+/***GLOBALES***/
+
+.imagen-bg{
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: cover;
+}
+
+
+#navbarBody nav a:hover {
+	color: black;
+	font-size: 16.5px;
+    background-color: white;
+}
+
+
+
+.titulo{
+	font-family: 'Playfair Display', serif;
+}
+
+.titulo span{
+	color: black;
+}
+
+.nav-link{
+	color: white;
+}
+/*#navbar-principal{
+	background-color: #037bc0!important;
+	border: 1px, solid;
+}*/
+
+#navbar{
+	border-top: 1px solid #e1e1e1;
+	border-bottom: 1px solid #e1e1e1;
+	background-color: rgb(80, 87, 102)!important;
+}
+
+.imagen-principal{
+	background-image: url(../../img/principal_lentes.jpg);
+	height: 35rem;
+}
+.card-title{
+	font-size: 20px;
+}
+
+a{
+	color: black;
+}
+
+.subitulosh4{
+	color: darkgrey;
+	font-size: 25px;
+}
+.input_Cantidad{
+	width: 25%!important;
+	font-size: 12px;
+}
+.producto{
+	font-size: 20px;
+}
+
+span{
+	font-size:15px;
+}
+.img_carrito{
+	height: 8rem!important;
+}
+
+
+/*.carousel-btns{
+	background-color: rgb(36, 33, 33);
+}*/
+
+@media (max-width: 575.98px) { 
+	/*@media (min-width: 576px) {*/
+	#content_G .card .card-title{
+		font-size:25px;
+	}
+	#carouselExampleIndicators{
+		padding-top: 18%;
+	}
+	#tituloCarrito{
+		background-color: red;
+		visibility: hidden;
+	}
+	.input_Cantidad{
+		width: 26%!important;
+		font-size: 10px;
+	}
+	.info_cantidad_precio{
+		visibility: hidden;
+	}
+	span{
+		font-size: 12px;
+	}
+	.img_carrito{
+		height: 4rem!important;
+	}
+
+	
+	
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	#content_G .card .card-title{
+		font-size:205px;
+		background-color: blue!important;
+	}
+	
+ }

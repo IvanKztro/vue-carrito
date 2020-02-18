@@ -1,0 +1,14 @@
+[
+	{"id": 0, "nombre": "Carbon black, yellow", "precio": 400, "src": "img/gafas_1.jpg", "detalles": "Lentes de sol fabricadas en TR90 con el sello de EMS🇨🇭, considerado el mejor Nylon para armazones del mundo que proporciona más flexibilidad y resistencia"},
+	{"id": 1, "nombre": "Carbon black, blue", "precio": 450, "src": "img/gafas_2.jpg", "detalles": "Micas de Nylon que ofrecen mayor nitidez y resistencia para un mejor rendimiento óptico"},
+    {"id": 2, "nombre": "Carbon black, black", "precio": 300, "src": "img/gafas_3.jpg", "detalles": "Bisagra de doble acción para un cierre de patillas seguro y durabilidad"},
+    {"id": 3, "nombre": "Carbon rose, rose", "precio": 200, "src": "img/gafas_4.jpg", "detalles": "Diseño más ancho del terminal de la patilla para mejorar la ergonomía y confort"},
+    {"id": 4, "nombre": "Carbon black, blue", "precio": 400, "src": "img/gafas_5.jpg", "detalles": "Incluye: funda en microfibra, caja y set de pegatinas decorativas"},
+    {"id": 5, "nombre": "Carbon rose, black", "precio": 380, "src": "img/gafas_6.jpg", "detalles": "Micas categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior"},
+    {"id": 6, "nombre": "Carbon black, black", "precio": 390, "src": "img/gafas_7.jpg", "detalles": "Medidas: Frontal 14 cm, Alto 5 cm, Patillas 14 cm"},
+    {"id": 7, "nombre": "Carbon black, purple", "precio": 400, "src": "img/gafas_8.jpg", "detalles": "Micas categoría 3 y protección uv400 que ofrecen una protección antideslumbrante superior"},
+    {"id": 8, "nombre": "Carbon black, yellow", "precio": 300, "src": "img/gafas_9.jpg", "detalles": "Unión de 45º para suavizar la junta entre montura y patilla dándole una continuidad perfecta"},
+    {"id": 9, "nombre": "Carbon black, green", "precio": 450, "src": "img/gafas_10.jpg", "detalles": "Incluye: funda en microfibra, caja y set de pegatinas decorativas"},
+    {"id": 10, "nombre": "Carbon black, black", "precio": 520, "src": "img/gafas_11.jpg", "detalles": "Micas de TR18 con el sello de Eastman🇺🇸, uno de los líderes mundiales en tecnología de copoliéster. Respetuoso con el medio ambiente y proporciona un equilibrio único entre claridad y resistenci"},
+    {"id": 11, "nombre": "Carbon black, black", "precio": 300, "src": "img/gafas_12.jpg", "detalles": "Almohadillas de silicona antideslizantes y anti-alérgicas, fijadas con un distintivo exclusivo de Hawkers en acero inoxidable. Acabado con diseño de líneas geométricas"}
+]
